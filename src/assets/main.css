@@ -1,0 +1,12 @@
+@import "./base.css";
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:600,700&display=swap');
+
+#app {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 6.75rem 0px;
+  
+    font-weight: normal;
+  }
