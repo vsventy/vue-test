@@ -6,7 +6,7 @@
 #app {
     max-width: var(--max-width);
     margin: 0 auto;
-    padding-top: 6.75rem;
+    padding: 6.75rem 0px;
   
     font-weight: normal;
   }
