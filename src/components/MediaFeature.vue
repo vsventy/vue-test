@@ -58,6 +58,7 @@ export default {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
+  overflow: hidden;
   height: 336px;
   width: 437.5px;
   border-radius: 8px;
